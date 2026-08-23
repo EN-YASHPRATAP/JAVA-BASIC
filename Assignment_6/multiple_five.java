@@ -1,4 +1,4 @@
-package Assignment_5;
+package Assignment_6;
 
 public class multiple_five {
     public static void main(String[] args){
